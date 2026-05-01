@@ -1,1 +1,3 @@
-Lightweight utility designed to maximize kernel clock precision, improving performance for gaming and other timing-sensitive applications.
+# kernel clock precision utility
+
+lightweight utility to improve kernel clock precision for better performance in gaming and other timing-sensitive workloads.
